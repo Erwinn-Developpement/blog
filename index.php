@@ -4,9 +4,10 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
+    <link rel="stylesheets" href="style.css">
     <title>Disbot blog!</title>
   </head>
   <body>
-    Text
+    <h1> Nouveautés de DisBot </h1>
   </body>
 </html>
